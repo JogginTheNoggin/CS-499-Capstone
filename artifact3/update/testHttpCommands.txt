@@ -1,0 +1,75 @@
+user GET : 
+
+https://o7vdan0ojl.execute-api.us-east-1.amazonaws.com/test/users?user_id=user123
+
+
+body
+
+
+{
+    "password" : "secure_password"
+}
+
+
+
+user POST:
+
+https://o7vdan0ojl.execute-api.us-east-1.amazonaws.com/test/users
+
+{
+    "username": "usernamehere",
+    "password": "anything",
+    "email" : "user@gmail.com"
+
+}
+
+
+
+dailyWeights POST:
+
+
+https://o7vdan0ojl.execute-api.us-east-1.amazonaws.com/test/users/dailyWeights
+
+{
+    "username": "user123",
+    "password": "secure_password",
+    "weight" : 155.0
+
+}
+
+
+dailyWeights GET:
+
+
+https://o7vdan0ojl.execute-api.us-east-1.amazonaws.com/test/users/dailyWeights?user_id=user123
+
+{
+    "password": "secure_password"
+}
+
+
+
+
+goalWeight PUT
+
+https://o7vdan0ojl.execute-api.us-east-1.amazonaws.com/test/users/goalWeights
+
+{
+    "username": "user123"
+    "password": "secure_password",
+    "goal_weight": 155.0
+}
+
+
+goalWeight GET
+
+https://o7vdan0ojl.execute-api.us-east-1.amazonaws.com/test/users/goalWeights?user_id=user123
+
+
+
+
+------------------------------------
+
+
+
+

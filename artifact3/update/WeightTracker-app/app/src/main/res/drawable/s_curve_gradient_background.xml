@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Gradient Background -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/blue_595"
+                android:centerColor="@color/blue_595"
+                android:endColor="@color/blue_595_light"
+                android:angle="270" />
+        </shape>
+    </item>
+
+    <!-- S-Curve Shape -->
+    <item>
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="1080dp"
+            android:height="240dp"
+            android:viewportWidth="1080"
+            android:viewportHeight="240">
+            <!-- S-Curve Path -->
+            <path
+                android:fillType="nonZero"
+                android:pathData="M0,0 L1080,0 C810,120 270,120 0,240 L1080,240 L1080,0 Z"
+                android:fillColor="@android:color/white" />
+
+            <!-- Gradient-filled shape -->
+            <path
+                android:fillType="nonZero"
+                android:pathData="M0,0 L1080,0 C810,120 270,120 0,240 L1080,240 L1080,0 Z">
+                <gradient
+                    android:startX="0"
+                    android:startY="0"
+                    android:endX="1080"
+                    android:endY="240"
+                    android:type="linear"
+                    android:startColor="#FF6200EE"
+                    android:endColor="#FF3700B3"
+                    android:tileMode="clamp" />
+            </path>
+        </vector>
+    </item>
+</layer-list>
