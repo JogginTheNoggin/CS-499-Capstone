@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.snhu.weighttracker.ui.home.HomeFragment"
+        android:label=""
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.snhu.weighttracker.ui.login.LoginFragment"
+        android:label="@string/menu_log_in"
+        tools:layout="@layout/fragment_login" />
+
+    <fragment
+        android:id="@+id/nav_notification"
+        android:name="com.snhu.weighttracker.ui.notifications.NotificationFragment"
+        android:label="@string/menu_notification"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>
