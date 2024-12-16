@@ -1,0 +1,110 @@
+﻿  Source.cpp
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Texture.h(228,31): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Texture.h(229,32): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\DirectionalLight.h(137,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\DirectionalLight.h(109,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\chunk.h(10,9): warning C4240: nonstandard extension used: access to 'Chunk::ChunkSize' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+  C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\chunk.h(7,9):
+  see declaration of 'Chunk::ChunkSize'
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(48,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(48,21): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(48,21): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(48,21): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(48,21): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(49,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(49,19): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(49,19): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(49,19): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(49,19): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(50,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(50,21): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(50,21): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(50,21): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(50,21): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(51,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(51,19): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(51,19): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(51,19): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(51,19): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(104,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(104,9): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(104,9): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(104,9): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(104,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(105,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(105,9): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(105,9): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(105,9): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(105,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(165,18): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(165,18): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(165,18): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(165,18): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(165,18): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(166,16): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(166,16): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(166,16): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(166,16): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(166,16): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(167,18): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(167,18): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(167,18): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(167,18): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(167,18): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(168,16): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(168,16): warning C4244:         with
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(168,16): warning C4244:         [
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(168,16): warning C4244:             T=float
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\headers\Voxel\ChunkManager.h(168,16): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\raycastDebug.cpp(121,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\raycastDebug.cpp(121,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(60,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(60,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(168,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(169,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(170,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(171,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(172,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(173,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(245,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(255,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(256,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(257,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(338,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(339,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\Source.cpp(379,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Raycasting.vcxproj -> C:\Users\jerem\Desktop\dev\visual_studio\OpenGLProjects\Raycasting\x64\Debug\Raycasting.exe
